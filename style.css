@@ -1,0 +1,36 @@
+.profilecard{
+    background-color: aqua;
+    padding: 50px;
+    border: 10px solid green;
+    margin: 2px;
+    width: 500px;
+}
+img{
+    width: 50px;
+    border-radius: 100%;
+}
+
+.profileimage{
+    width: 200px;
+    border-radius: 100%;
+    border: 5px solid red;
+}
+.profilecard:hover{
+    opacity: 0.6;
+    color: fuchsia;
+}
+.hobbies{
+    background-color: brown;
+    padding: 30px;
+    border: 20px solid pink;
+    margin: 2px;
+    width: 500px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.skills
+{
+    background-color: aquamarine;
+    width: 330px;
+    padding: 40px;
+    border: 20px solid blue;
+}
